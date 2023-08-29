@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![](https://github.com/toth3max/toth3max/blob/e8b8da7ab0da62519234ee5cf0167e6b4bf82272/img/@lofigirl.png?raw=true)
 <!--
 **toth3max/toth3max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
